@@ -39,7 +39,7 @@ const Introduction = () => {
             idx={19}
           />
         </h1>
-        <h2 className='intro__headingSecondary'>Full Stack Developer</h2>
+        <h2 className='intro__headingSecondary'>Front-End Developer</h2>
         <Link to='/contact' className='intro__button'>
           Contact Me
         </Link>
